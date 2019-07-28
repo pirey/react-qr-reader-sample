@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/react-qr-reader-sample/static/js/main.02856938.chunk.js",
-    "main.js.map": "/react-qr-reader-sample/static/js/main.02856938.chunk.js.map",
+    "main.js": "/react-qr-reader-sample/static/js/main.f5f2804b.chunk.js",
+    "main.js.map": "/react-qr-reader-sample/static/js/main.f5f2804b.chunk.js.map",
     "runtime~main.js": "/react-qr-reader-sample/static/js/runtime~main.c906e160.js",
     "runtime~main.js.map": "/react-qr-reader-sample/static/js/runtime~main.c906e160.js.map",
     "static/css/2.266e55a5.chunk.css": "/react-qr-reader-sample/static/css/2.266e55a5.chunk.css",
-    "static/js/2.326ed41f.chunk.js": "/react-qr-reader-sample/static/js/2.326ed41f.chunk.js",
-    "static/js/2.326ed41f.chunk.js.map": "/react-qr-reader-sample/static/js/2.326ed41f.chunk.js.map",
+    "static/js/2.4fb4b6fc.chunk.js": "/react-qr-reader-sample/static/js/2.4fb4b6fc.chunk.js",
+    "static/js/2.4fb4b6fc.chunk.js.map": "/react-qr-reader-sample/static/js/2.4fb4b6fc.chunk.js.map",
     "index.html": "/react-qr-reader-sample/index.html",
-    "precache-manifest.2dd73f30cd918a3654e6ff4c4a5959c6.js": "/react-qr-reader-sample/precache-manifest.2dd73f30cd918a3654e6ff4c4a5959c6.js",
+    "precache-manifest.151eef7c15089367e2b655c2070888f3.js": "/react-qr-reader-sample/precache-manifest.151eef7c15089367e2b655c2070888f3.js",
     "service-worker.js": "/react-qr-reader-sample/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/react-qr-reader-sample/static/css/2.266e55a5.chunk.css.map"
   }
